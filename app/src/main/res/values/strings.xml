@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">BusinessCard</string>
+    <string name="logo">Business Card Logo</string>
+    <string name="title">Mobile Application Developer</string>
+    <string name="last_name">Dela Calzada</string>
+    <string name="first_name">Rykiel Louizze</string>
+    <string name="icon">Icon</string>
+    <string name="number">+63 928 099 0649</string>
+    <string name="email">rlouizzedc@gmail.com</string>
+    <string name="socials">\u0040rykieldc on all socials!</string>
+
+
+</resources>
